@@ -77,7 +77,7 @@
 
 ### 🧠 TryHackMe Stats
 <p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/santheerkdas.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/santheerkdas.png" alt="Your Image Badge" />
 </p>
 
 ---
