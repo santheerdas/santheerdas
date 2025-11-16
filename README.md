@@ -63,11 +63,17 @@
 
 ---
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
-- 🌐 **LinkedIn:** *Add your link here*  
-- 🎮 **TryHackMe:** *Add your profile link here*  
-- 💻 **Portfolio / Blog (optional):** *Add link if available*
+<p>
+  <a href="www.linkedin.com/in/santheerdas-k" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="santheerkdas" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
 
 ---
 
