@@ -3,7 +3,7 @@
 <h3 align="center">Cloud & DevOps Engineer | Cybersecurity Enthusiast | TryHackMe Player</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=santheerdas&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -53,12 +53,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santheerdas&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=santheerdas&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
@@ -71,4 +71,3 @@
 
 ---
 
-⭐ **Pro Tip:** Replace `YOUR_GITHUB_USERNAME` with your real GitHub username.
