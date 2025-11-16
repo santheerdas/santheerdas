@@ -63,6 +63,20 @@
 
 ---
 
+## 📈 GitHub Stats 2
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santheerdas&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santheerdas&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santheerdas&theme=tokyonight" />
+</p>
+
+
+---
+
 ### 🧠 TryHackMe Stats
 <p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/santheerkdas.png" alt="Your Image Badge" />
