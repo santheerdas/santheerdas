@@ -75,5 +75,10 @@
   </a>
 </p>
 
+### 🧠 TryHackMe Stats
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/santheerkdas.png" alt="TryHackMe Badge" />
+</p>
+
 ---
 
