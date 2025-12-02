@@ -75,7 +75,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/santheerdas-k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://tryhackme.com/p/santheerkdas" target="_blank">
